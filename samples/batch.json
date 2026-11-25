@@ -1,0 +1,31 @@
+[
+  {
+    "field": "team",
+    "records": [
+      {
+        "team": "a",
+        "n": 1
+      },
+      {
+        "team": "b",
+        "n": 2
+      },
+      {
+        "team": "a",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "field": "kind",
+    "records": [
+      {
+        "kind": "x"
+      }
+    ]
+  },
+  {
+    "field": "kind",
+    "records": []
+  }
+]
